@@ -29,14 +29,15 @@ function App() {
             },
             {
               title: "Kunjungan",
-              href: "https://forms.gle/FuBvALftMyQkvBFM9",
+              href: "https://forms.gle/nWo1J4JKotia32M68",
               img: form_penitipan,
             },
             {
               title: "Penitipan Barang",
-              href: "https://forms.gle/FuBvALftMyQkvBFM9",
+              href: "https://forms.gle/8DrdZ4S2gKXSzg8c8",
               img: form_penitipan,
             },
+            
           ].map(({ title, href, img }) => (
             <a
               key={title}
