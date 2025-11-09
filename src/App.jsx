@@ -1,4 +1,4 @@
-import pengayoman from "/pengayoman.avif";
+import logo from "/logo.png";
 import header from "./assets/header.png";
 import form_pengaduan from "./assets/pengaduan.jpeg";
 import form_penitipan from "./assets/penitipan.jpeg";
@@ -8,7 +8,7 @@ function App() {
     <div className="container bg-gray-200 min-h-screen">
       <div className="flex flex-col mx-auto w-3/5 p-5 gap-y-5">
         <div className="flex md:flex-row flex-col items-center justify-center gap-2">
-          <img className="md:h-24 h-12" src={pengayoman} alt="pengayoman" />
+          <img className="md:h-24 h-12" src={logo} alt="pengayoman" />
           <h1 className="text-center md:text-2xl text-base font-bold uppercase ">
             Lapas Perempuan Kelas IIA Bandar Lampung
           </h1>
