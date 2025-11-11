@@ -24,7 +24,7 @@ function App() {
           {[
             {
               title: "Pengaduan",
-              href: "https://forms.gle/FuBvALftMyQkvBFM9",
+              href: "https://forms.gle/HRwYN4iQKGPDP7Pe7",
               img: form_pengaduan,
             },
             {
