@@ -40,7 +40,7 @@ function App() {
               Lapas Perempuan Kelas IIA Bandar Lampung
             </h1>
           </div>
-          <div className="relative overflow-hidden w-full md:w-5/6 mx-auto rounded-3xl shadow-2xl">
+          <div className="relative overflow-hidden w-full md:w-5/6 mx-auto rounded-2xl shadow-2xl">
             <img className=" h-auto object-cover" src={header} alt="Header" />
             <div className="w-full mx-auto absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
           </div>
